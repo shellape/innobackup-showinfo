@@ -4,7 +4,6 @@
 """
 name:          inno-showinfo.py
 description:   Show information about incremental innobackupex backups
-author:        vd@ghostshell.de
 version:       0.1
 tested on:     Debian Wheezy, RHEL5
 """
